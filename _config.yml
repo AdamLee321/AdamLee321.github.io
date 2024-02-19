@@ -50,15 +50,15 @@ linkedin_username: adam-lee-b426668b
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
   
-Greetings, travelers of Middle-earth! I am Adam, a seasoned wizard of the digital realm, here to regale you with tales of my adventures as a senior mobile & web developer! 🧙‍♂️💻
+Greetings, travelers of Middle-earth! I am Adam, a seasoned wizard of the digital realm, here to regale you with tales of my adventures as a senior mobile & web developer!
 
-For a decade now, I've been casting spells in the mystical lands of mobile apps, akin to mastering the arcane arts of the elven smiths. And lo, for a full decade and more, I've treaded the paths of the web, much like the resilient dwarves delving deep into the heart of the mountains! ⚔️💼
+For a decade now, I've been casting spells in the mystical lands of mobile apps, akin to mastering the arcane arts of the elven smiths. And lo, for a full decade and more, I've treaded the paths of the web, much like the resilient dwarves delving deep into the heart of the mountains!
 
-In my time as a digital voyager, I've embarked on over 60 epic quests, each one a saga worthy of the bards' songs! Many of these quests have found their way into the halls of Valinor, gracing the Apple and Android app stores with their presence! 📱🌌
+In my time as a digital voyager, I've embarked on over 60 epic quests, each one a saga worthy of the bards' songs! Many of these quests have found their way into the halls of Valinor, gracing the Apple and Android app stores with their presence!
 
-But fear not, for I am not merely a solitary wanderer. Nay, I have braved the perils of teamwork, standing shoulder to shoulder with brave comrades, just like the Fellowship on their journey to Mordor. And when the path has led me to solitary shores, I've faced the challenges alone, much like Frodo on his solemn quest to destroy the One Ring. 🌋💍
+But fear not, for I am not merely a solitary wanderer. Nay, I have braved the perils of teamwork, standing shoulder to shoulder with brave comrades, just like the Fellowship on their journey to Mordor. And when the path has led me to solitary shores, I've faced the challenges alone, much like Frodo on his solemn quest to destroy the One Ring.
 
-So, whether I'm marching alongside allies or venturing forth on my own, you can trust in my prowess to craft digital wonders that rival the majesty of Middle-earth itself! 🌟✨
+So, whether I'm marching alongside allies or venturing forth on my own, you can trust in my prowess to craft digital wonders that rival the majesty of Middle-earth itself!
 
 My most esteemed qualities: <mark>React Native</mark>, <mark>ReactJS</mark>, <mark>Swift</mark>, <mark>Kotlin</mark>, <mark>Java</mark>, <mark>C#</mark> and <mark>SQL</mark>
 
@@ -119,8 +119,6 @@ content:
       - DIY
       - Cooking & Baking
       - Travelling
-
-      
 
 # Footer
 footer_show_references: true
