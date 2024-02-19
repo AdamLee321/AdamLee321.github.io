@@ -51,6 +51,7 @@ about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
 
 
+
   Greetings, travelers of Middle-earth! I am Adam, a seasoned wizard of the digital realm, here to regale you with tales of my adventures as a senior mobile & web developer! 🧙‍♂️💻
 
   For a decade now, I've been casting spells in the mystical lands of mobile apps, akin to mastering the arcane arts of the elven smiths. And lo, for a full decade and more, I've treaded the paths of the web, much like the resilient dwarves delving deep into the heart of the mountains! ⚔️💼
@@ -123,6 +124,8 @@ content:
 
       ![Drinks](/images/drinks.jpg "Drinks"){: class="travel-photo"}
       ![TownSquare](/images/center.jpg "TownSquare"){: class="travel-photo"}
+      ![Violet](/images/violet.jpg.jpg "Violet"){: class="travel-photo"}
+      ![Nice](/images/nice.jpg.jpg "Nice"){: class="travel-photo"}
 
 # Footer
 footer_show_references: true
