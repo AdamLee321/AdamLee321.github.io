@@ -2,8 +2,6 @@
 
 **Landing page for my GitHub projects**
 
-\
-
 ## Development
 
 
