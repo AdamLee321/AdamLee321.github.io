@@ -121,8 +121,8 @@ content:
       - Travelling
 
       Travel Photos  
-      ![Drinks](/images/drinks.jpg "Drinks")
-      ![TownSquare](/images/center.jpg "TownSquare")
+      ![Drinks](/images/drinks.jpg "Drinks"){: class="travel-photo"}
+      ![TownSquare](/images/center.jpg "TownSquare"){: class="travel-photo"}
 
 # Footer
 footer_show_references: true
