@@ -120,6 +120,10 @@ content:
       - Cooking & Baking
       - Travelling
 
+      Travel Photos  
+      ![Drinks](/images/drinks.jpg "Drinks")
+      ![TownSquare](/images/center.jpg "TownSquare")
+
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
