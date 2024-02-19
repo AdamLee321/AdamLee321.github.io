@@ -67,7 +67,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: xyz
+        title: XYZ
         link: https://www.site.xyz/
         # link_text: Project Website
         additional_links:
