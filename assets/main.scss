@@ -3,5 +3,18 @@
 ---
 
 @import 'modern-resume-theme';
-@import '_sass/styles.scss';
+
+.travel-photo {
+    width: 100%;
+}
+
+
+@media (min-width: 768px) {
+    .travel-photo {
+        width: 25%;
+        float: left;
+        margin-right: 1%;
+        margin-bottom: 1rem;
+    }
+}
 

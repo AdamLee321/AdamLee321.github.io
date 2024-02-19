@@ -17,8 +17,8 @@ darkmode: true
 
 # Social links
 # twitter_username: facespics
-github_username:  AdamLee321
-stackoverflow_username: "4777072"
+github_username: AdamLee321
+stackoverflow_username: '4777072'
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
@@ -49,7 +49,8 @@ linkedin_username: adam-lee-b426668b
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  
+
+
   Greetings, travelers of Middle-earth! I am Adam, a seasoned wizard of the digital realm, here to regale you with tales of my adventures as a senior mobile & web developer! 🧙‍♂️💻
 
   For a decade now, I've been casting spells in the mystical lands of mobile apps, akin to mastering the arcane arts of the elven smiths. And lo, for a full decade and more, I've treaded the paths of the web, much like the resilient dwarves delving deep into the heart of the mountains! ⚔️💼
@@ -71,14 +72,14 @@ content:
         link: https://www.site.xyz/
         # link_text: Project Website
         additional_links:
-          - title:  Mosaic
+          - title: Mosaic
             icon: images/mosaic-wheel.png
             url: https://mosaic.ie/
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-         White-Label Website Infrastructure
+          White-Label Website Infrastructure
         description: | # this will include new lines to allow paragraphs
           From Creative Agencies building multiple Promo websites at speed... to Payment Companies offering eCommerce websites to their merchants under their own brand, we provide you with cutting-edge White-Label Website Infrastructure.
 
@@ -94,7 +95,7 @@ content:
         quote: >
           We thrive on exceeding our client's expectations. We utilise the latest technologies and trends to develop cutting edge Mobile Apps and premium Web Platforms... that WOW our client's customers.
         description: | # this will include new lines to allow paragraphs
-            Designing and developing Android & iOS applications for our clients. ReactJS and React Native or other languages used for development.
+          Designing and developing Android & iOS applications for our clients. ReactJS and React Native or other languages used for development.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -135,4 +136,4 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
