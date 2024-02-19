@@ -1,14 +1,17 @@
-/* Adjust the size of travel photos */
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+
 .travel-photo {
-  width: 100%; /* By default, take full width */
+  width: 100%;
 }
 
-/* Adjust the size of travel photos on larger devices */
+
 @media (min-width: 768px) {
   .travel-photo {
-    width: 25%; /* Take 25% of the width on larger devices */
-    float: left; /* Float images to the left to display them side by side */
-    margin-right: 1%; /* Add some margin between images */
-    margin-bottom: 1rem; /* Add some margin below images */
+    width: 25%; 
+    float: left;
+    margin-right: 1%;
+    margin-bottom: 1rem;
   }
 }
