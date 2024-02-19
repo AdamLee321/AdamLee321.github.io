@@ -23,7 +23,7 @@
 /* Ensure all images have the same height */
 .travel-photo img {
     width: 100%;
-    height: 100%;
+    height: 200px;
     object-fit: cover;
     aspect-ratio: 1/1;
     /* Set the aspect ratio to 1:1 for square images */
