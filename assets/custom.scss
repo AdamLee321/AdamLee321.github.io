@@ -1,4 +1,14 @@
-footer img {
-  max-width: 100%; /* Adjust as needed */
-  height: auto;
+/* Adjust the size of travel photos */
+.travel-photo {
+  width: 100%; /* By default, take full width */
+}
+
+/* Adjust the size of travel photos on larger devices */
+@media (min-width: 768px) {
+  .travel-photo {
+    width: 25%; /* Take 25% of the width on larger devices */
+    float: left; /* Float images to the left to display them side by side */
+    margin-right: 1%; /* Add some margin between images */
+    margin-bottom: 1rem; /* Add some margin below images */
+  }
 }
