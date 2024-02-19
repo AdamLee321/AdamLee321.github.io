@@ -18,7 +18,7 @@ darkmode: false
 # Social links
 # twitter_username: facespics
 github_username:  AdamLee321
-# stackoverflow_username: "00000001"
+stackoverflow_username: "4777072"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
@@ -49,9 +49,18 @@ linkedin_username: adam-lee-b426668b
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Adam and I'm a senior mobile & web developer. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  
+Greetings, travelers of Middle-earth! I am Adam, a seasoned wizard of the digital realm, here to regale you with tales of my adventures as a senior mobile & web developer! 🧙‍♂️💻
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+For a decade now, I've been casting spells in the mystical lands of mobile apps, akin to mastering the arcane arts of the elven smiths. And lo, for a full decade and more, I've treaded the paths of the web, much like the resilient dwarves delving deep into the heart of the mountains! ⚔️💼
+
+In my time as a digital voyager, I've embarked on over 60 epic quests, each one a saga worthy of the bards' songs! Many of these quests have found their way into the halls of Valinor, gracing the Apple and Android app stores with their presence! 📱🌌
+
+But fear not, for I am not merely a solitary wanderer. Nay, I have braved the perils of teamwork, standing shoulder to shoulder with brave comrades, just like the Fellowship on their journey to Mordor. And when the path has led me to solitary shores, I've faced the challenges alone, much like Frodo on his solemn quest to destroy the One Ring. 🌋💍
+
+So, whether I'm marching alongside allies or venturing forth on my own, you can trust in my prowess to craft digital wonders that rival the majesty of Middle-earth itself! 🌟✨
+
+My most esteemed qualities: <mark>React Native</mark>, <mark>ReactJS</mark>, <mark>Swift</mark>, <mark>Kotlin</mark>, <mark>Java</mark>, <mark>C#</mark> and <mark>SQL</mark>
 
 content:
   - title: Projects # Title for the section
@@ -77,25 +86,25 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: Mosaic LTD
+        link: https://mosaic.ie/
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        sub_title: Senior Mobile & Web Developer
+        caption: April 2018 - Present
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          We thrive on exceeding our client's expectations. We utilise the latest technologies and trends to develop cutting edge Mobile Apps and premium Web Platforms... that WOW our client's customers.
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            Designing and developing Android & iOS applications for our clients. ReactJS and React Native or other languages used for development.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
+        title: Altanic Technological University
+        caption: 2013 - 2018
         sub_title: BSc Computer Science
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          We are one of Ireland’s leading third level institutions for over 50 years and a great destination to get a high quality education.
         description: | # this will include new lines to allow paragraphs
           During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
@@ -104,14 +113,14 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
+      Alongside my interests in software development  some of my other interests and hobbies are:
+      - Big J.R.R Tolkien fan (As you can see)
       - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      - DIY
+      - Cooking & Baking
+      - Travelling
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      
 
 # Footer
 footer_show_references: true
